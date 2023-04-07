@@ -1,0 +1,176 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chet-di-cho-roi-leonard-peacock_19891.html",
+    "title" : "Chết Đi Cho Rồi, Leonard Peacock",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Matthew Quick",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 25466,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_eb73ba671c48654b29578a7d7c37b9bc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_eb73ba671c48654b29578a7d7c37b9bc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1861,
+    "title" : "CHET DI CHO ROI 01"
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2119,
+    "title" : "CHET DI CHO ROI 02"
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1728,
+    "title" : "CHET DI CHO ROI 03"
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1558,
+    "title" : "CHET DI CHO ROI 04"
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2149,
+    "title" : "CHET DI CHO ROI 05"
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1419,
+    "title" : "CHET DI CHO ROI 06"
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1815,
+    "title" : "CHET DI CHO ROI 07"
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1998,
+    "title" : "CHET DI CHO ROI 08"
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1239,
+    "title" : "CHET DI CHO ROI 09"
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1441,
+    "title" : "CHET DI CHO ROI 10"
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1895,
+    "title" : "CHET DI CHO ROI 11"
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2374,
+    "title" : "CHET DI CHO ROI 12"
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1614,
+    "title" : "CHET DI CHO ROI 13"
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2256,
+    "title" : "CHET DI CHO ROI 14"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_01.mp3",
+    "title" : "CHET DI CHO ROI 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_02.mp3",
+    "title" : "CHET DI CHO ROI 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_03.mp3",
+    "title" : "CHET DI CHO ROI 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_04.mp3",
+    "title" : "CHET DI CHO ROI 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_05.mp3",
+    "title" : "CHET DI CHO ROI 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_06.mp3",
+    "title" : "CHET DI CHO ROI 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_07.mp3",
+    "title" : "CHET DI CHO ROI 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_08.mp3",
+    "title" : "CHET DI CHO ROI 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_09.mp3",
+    "title" : "CHET DI CHO ROI 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_10.mp3",
+    "title" : "CHET DI CHO ROI 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_11.mp3",
+    "title" : "CHET DI CHO ROI 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_12.mp3",
+    "title" : "CHET DI CHO ROI 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_13.mp3",
+    "title" : "CHET DI CHO ROI 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chet-di-cho-roi-leonard-peacock.sna/CHET_DI_CHO_ROI_14.mp3",
+    "title" : "CHET DI CHO ROI 14",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

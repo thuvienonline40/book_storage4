@@ -1,0 +1,56 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuoi-tre-tinh-yeu-ly-tuong_19278.html",
+    "title" : "Tuổi Trẻ - Tình Yêu - Lý Tưởng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 8156,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_c60f8b31fd06a3c41f72e2dc0d20b562.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_c60f8b31fd06a3c41f72e2dc0d20b562.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tuoi-tre-1/tuoi-tre-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4080,
+    "title" : "01 Tuoi Tre Tinh Yeu Ly Tuong"
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-1/tuoi-tre-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4076,
+    "title" : "02 Tuoi Tre Tinh Yeu Ly Tuong"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tuoi-tre-1/tuoi-tre-1.mp3",
+    "title" : "01 Tuoi Tre Tinh Yeu Ly Tuong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tuoi-tre-1/tuoi-tre-2.mp3",
+    "title" : "02 Tuoi Tre Tinh Yeu Ly Tuong",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

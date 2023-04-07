@@ -1,0 +1,116 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-hoi-thay-doi-so-phan_19399.html",
+    "title" : "Cơ Hội Thay Đổi Số Phận",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vương Quân Vân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 16212,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_4ec35aebfbb6073ee47b3ec976edeb23.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_4ec35aebfbb6073ee47b3ec976edeb23.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/01.GioiThieu_CoHoiThayDoiSoPhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 410,
+    "title" : "01.GioiThieu CoHoiThayDoiSoPhan"
+  }, {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/02.C01_CoHoiLaThungVangDauTienThayDoiSoPhan_CoHoiThayDoiSoPhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2883,
+    "title" : "02.C01 CoHoiLaThungVangDauTienThayDoiSoPhan CoHoiThayDoiSoPhan"
+  }, {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/03.C02_NhietHuyetLaBePhongThoatKhoiNgheoKho_CoHoiThayDoiSoPhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2656,
+    "title" : "03.C02 NhietHuyetLaBePhongThoatKhoiNgheoKho CoHoiThayDoiSoPhan"
+  }, {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/04.C03_LongTinChiecCauDuyNhatVuotQuaSoPhan_CoHoiThayDoiSoPhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2866,
+    "title" : "04.C03 LongTinChiecCauDuyNhatVuotQuaSoPhan CoHoiThayDoiSoPhan"
+  }, {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/05.C04_MucTieuChinhXacQuyetDinhThayDoiCuocDoiBan_CoHoiThayDoiSoPhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2169,
+    "title" : "05.C04 MucTieuChinhXacQuyetDinhThayDoiCuocDoiBan CoHoiThayDoiSoPhan"
+  }, {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/06.C05_SuSangTaoChiaKhoaCuaThanhCong_CoHoiThayDoiSoPhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1832,
+    "title" : "06.C05 SuSangTaoChiaKhoaCuaThanhCong CoHoiThayDoiSoPhan"
+  }, {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/07.C06_VuotQuaNghichCanhMoiDatDuocThanhCong_CoHoiThayDoiSoPhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1052,
+    "title" : "07.C06 VuotQuaNghichCanhMoiDatDuocThanhCong CoHoiThayDoiSoPhan"
+  }, {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/08.C07_Het_CanCuVaCoGangLaCachDuyNhatThayDoiHoanCanh_CoHoiThayDoiSoPhan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2344,
+    "title" : "08.C07 Het CanCuVaCoGangLaCachDuyNhatThayDoiHoanCanh CoHoiThayDoiSoPhan"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/01.GioiThieu_CoHoiThayDoiSoPhan.mp3",
+    "title" : "01.GioiThieu CoHoiThayDoiSoPhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/02.C01_CoHoiLaThungVangDauTienThayDoiSoPhan_CoHoiThayDoiSoPhan.mp3",
+    "title" : "02.C01 CoHoiLaThungVangDauTienThayDoiSoPhan CoHoiThayDoiSoPhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/03.C02_NhietHuyetLaBePhongThoatKhoiNgheoKho_CoHoiThayDoiSoPhan.mp3",
+    "title" : "03.C02 NhietHuyetLaBePhongThoatKhoiNgheoKho CoHoiThayDoiSoPhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/04.C03_LongTinChiecCauDuyNhatVuotQuaSoPhan_CoHoiThayDoiSoPhan.mp3",
+    "title" : "04.C03 LongTinChiecCauDuyNhatVuotQuaSoPhan CoHoiThayDoiSoPhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/05.C04_MucTieuChinhXacQuyetDinhThayDoiCuocDoiBan_CoHoiThayDoiSoPhan.mp3",
+    "title" : "05.C04 MucTieuChinhXacQuyetDinhThayDoiCuocDoiBan CoHoiThayDoiSoPhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/06.C05_SuSangTaoChiaKhoaCuaThanhCong_CoHoiThayDoiSoPhan.mp3",
+    "title" : "06.C05 SuSangTaoChiaKhoaCuaThanhCong CoHoiThayDoiSoPhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/07.C06_VuotQuaNghichCanhMoiDatDuocThanhCong_CoHoiThayDoiSoPhan.mp3",
+    "title" : "07.C06 VuotQuaNghichCanhMoiDatDuocThanhCong CoHoiThayDoiSoPhan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-hoi-thay-doi-so-phan.sna/08.C07_Het_CanCuVaCoGangLaCachDuyNhatThayDoiHoanCanh_CoHoiThayDoiSoPhan.mp3",
+    "title" : "08.C07 Het CanCuVaCoGangLaCachDuyNhatThayDoiHoanCanh CoHoiThayDoiSoPhan",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,216 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-da-co-duong-di_19277.html",
+    "title" : "Con Đã Có Đường Đi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 35817,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_1c688babb536741a1d21a3fdd6f01f24.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_1c688babb536741a1d21a3fdd6f01f24.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-da-11/con-da-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1264,
+    "title" : "Lời nói đầu - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2192,
+    "title" : "Giành lại chủ quyền - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2377,
+    "title" : "Biết ơn là điều kiện có hạnh phúc - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1428,
+    "title" : "Cánh cửa đi tới giải thoát - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2204,
+    "title" : "Nơi nương tựa vững chãi - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2493,
+    "title" : "Tuệ giác chân thật - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2059,
+    "title" : "Chữ nghiệp trong đạo Bụt - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1971,
+    "title" : "Lợi và hại - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1947,
+    "title" : "Nối tiếp sự nghiệp của Bụt - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2359,
+    "title" : "Thân thể là đền thờ tâm linh - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2505,
+    "title" : "Bốn phương pháp nghiên cứu, quán chiếu - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1864,
+    "title" : "Sinh diệt nương nhau - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1187,
+    "title" : "Vượt qua chướng ngại - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2121,
+    "title" : "Hạnh phúc không đâu xa - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1323,
+    "title" : "Hành trình tìm lại bản thân - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2036,
+    "title" : "Đừng đánh mất cơ hội giác ngộ - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2064,
+    "title" : "Siêu đạo đức học - wWw.ChuaGiacNgo.com"
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2423,
+    "title" : "Một số khuynh hướng đạo đức - wWw.ChuaGiacNgo.com"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-da-11/con-da-01.mp3",
+    "title" : "Lời nói đầu - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-02.mp3",
+    "title" : "Giành lại chủ quyền - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-03.mp3",
+    "title" : "Biết ơn là điều kiện có hạnh phúc - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-04.mp3",
+    "title" : "Cánh cửa đi tới giải thoát - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-05.mp3",
+    "title" : "Nơi nương tựa vững chãi - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-06.mp3",
+    "title" : "Tuệ giác chân thật - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-07.mp3",
+    "title" : "Chữ nghiệp trong đạo Bụt - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-08.mp3",
+    "title" : "Lợi và hại - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-09.mp3",
+    "title" : "Nối tiếp sự nghiệp của Bụt - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-10.mp3",
+    "title" : "Thân thể là đền thờ tâm linh - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-11.mp3",
+    "title" : "Bốn phương pháp nghiên cứu, quán chiếu - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-12.mp3",
+    "title" : "Sinh diệt nương nhau - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-13.mp3",
+    "title" : "Vượt qua chướng ngại - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-14.mp3",
+    "title" : "Hạnh phúc không đâu xa - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-15.mp3",
+    "title" : "Hành trình tìm lại bản thân - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-16.mp3",
+    "title" : "Đừng đánh mất cơ hội giác ngộ - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-17.mp3",
+    "title" : "Siêu đạo đức học - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-da-11/con-da-18.mp3",
+    "title" : "Một số khuynh hướng đạo đức - wWw.ChuaGiacNgo.com",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

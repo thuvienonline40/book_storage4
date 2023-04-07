@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tinh-nguoi_19255.html",
+    "title" : "Tình Người",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 8236,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_405561086dcd2a55b9ecf90552dae383.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_405561086dcd2a55b9ecf90552dae383.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/y-2mate.com-tinh-nguoi-ht-thich-nhat-hanh/y2mate.com%20-%20T%C3%ACnh%20Ng%C6%B0%E1%BB%9Di%20%20HT%20Th%C3%ADch%20Nh%E1%BA%A5t%20H%E1%BA%A1nh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8236,
+    "title" : "y2mate.com - Tình Người  HT Thích Nhất Hạnh"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/y-2mate.com-tinh-nguoi-ht-thich-nhat-hanh/y2mate.com%20-%20T%C3%ACnh%20Ng%C6%B0%E1%BB%9Di%20%20HT%20Th%C3%ADch%20Nh%E1%BA%A5t%20H%E1%BA%A1nh.mp3",
+    "title" : "y2mate.com - Tình Người  HT Thích Nhất Hạnh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

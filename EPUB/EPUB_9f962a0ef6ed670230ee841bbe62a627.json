@@ -1,0 +1,56 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-ðoi-tai-sac_19380.html",
+    "title" : "Một Ðời Tài Sắc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 9964,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_9f962a0ef6ed670230ee841bbe62a627.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_9f962a0ef6ed670230ee841bbe62a627.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mot-doi-1_202203/mot-doi-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5925,
+    "title" : "Nghe truyện MỘT ĐỜI TÀI SẮC"
+  }, {
+    "href" : "https://archive.org/download/mot-doi-1_202203/mot-doi-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4039,
+    "title" : "Nghe truyện MỘT ĐỜI TÀI SẮC"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mot-doi-1_202203/mot-doi-1.mp3",
+    "title" : "Nghe truyện MỘT ĐỜI TÀI SẮC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-doi-1_202203/mot-doi-2.mp3",
+    "title" : "Nghe truyện MỘT ĐỜI TÀI SẮC",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

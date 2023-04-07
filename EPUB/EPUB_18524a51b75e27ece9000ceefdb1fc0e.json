@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/suc-manh-cua-thoi-quen_19623.html",
+    "title" : "Sức Mạnh Của Thói Quen",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Charles Duhigg",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 32208,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_18524a51b75e27ece9000ceefdb1fc0e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_18524a51b75e27ece9000ceefdb1fc0e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/suc-manh-1_20211207/suc-manh-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "suc-manh-1"
+  }, {
+    "href" : "https://archive.org/download/suc-manh-1_20211207/suc-manh-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "suc-manh-2"
+  }, {
+    "href" : "https://archive.org/download/suc-manh-1_20211207/suc-manh-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "suc-manh-3"
+  }, {
+    "href" : "https://archive.org/download/suc-manh-1_20211207/suc-manh-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "suc-manh-4"
+  }, {
+    "href" : "https://archive.org/download/suc-manh-1_20211207/suc-manh-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3408,
+    "title" : "suc-manh-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/suc-manh-1_20211207/suc-manh-1.mp3",
+    "title" : "suc-manh-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suc-manh-1_20211207/suc-manh-2.mp3",
+    "title" : "suc-manh-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suc-manh-1_20211207/suc-manh-3.mp3",
+    "title" : "suc-manh-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suc-manh-1_20211207/suc-manh-4.mp3",
+    "title" : "suc-manh-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/suc-manh-1_20211207/suc-manh-5.mp3",
+    "title" : "suc-manh-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

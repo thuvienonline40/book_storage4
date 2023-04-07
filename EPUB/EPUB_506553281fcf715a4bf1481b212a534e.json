@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/niem-phat-tong-yeu_19429.html",
+    "title" : "Niệm Phật Tông Yếu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Pháp Nhiên Thượng Nhân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 4056,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_506553281fcf715a4bf1481b212a534e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_506553281fcf715a4bf1481b212a534e.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/y-2meta.com-niem-phat-tong-yeu-phap-nhien-thuong-nhan-128-kbps/y2meta.com%20-%20Ni%E1%BB%87m%20Ph%E1%BA%ADt%20T%C3%B4ng%20Y%E1%BA%BFu%20-%20Ph%C3%A1p%20Nhi%C3%AAn%20Th%C6%B0%E1%BB%A3ng%20Nh%C3%A2n%20%28128%20kbps%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4056,
+    "title" : "y2meta.com - Niệm Phật Tông Yếu - Pháp Nhiên Thượng Nhân (128 kbps)"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/y-2meta.com-niem-phat-tong-yeu-phap-nhien-thuong-nhan-128-kbps/y2meta.com%20-%20Ni%E1%BB%87m%20Ph%E1%BA%ADt%20T%C3%B4ng%20Y%E1%BA%BFu%20-%20Ph%C3%A1p%20Nhi%C3%AAn%20Th%C6%B0%E1%BB%A3ng%20Nh%C3%A2n%20%28128%20kbps%29.mp3",
+    "title" : "y2meta.com - Niệm Phật Tông Yếu - Pháp Nhiên Thượng Nhân (128 kbps)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

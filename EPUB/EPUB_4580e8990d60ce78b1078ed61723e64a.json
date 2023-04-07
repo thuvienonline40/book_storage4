@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-huyet-cam-xuc-suc-manh-thoi-mien-cua-loi-noi_19445.html",
+    "title" : "Tử Huyệt Cảm Xúc (Sức Mạnh Thôi Miên Của Lời Nói)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Roy Garn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 42525,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_4580e8990d60ce78b1078ed61723e64a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_4580e8990d60ce78b1078ed61723e64a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tu-huyet-cam-xuc-suc-manh-thoi-mien-cua-loi-noi.sna/TuHuyetCamXuc-RoyGarn-DocSachThue-p1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8133,
+    "title" : "TuHuyetCamXuc-RoyGarn-DocSachThue-p1"
+  }, {
+    "href" : "https://archive.org/download/tu-huyet-cam-xuc-suc-manh-thoi-mien-cua-loi-noi.sna/TuHuyetCamXuc-RoyGarn-DocSachThue-p2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7703,
+    "title" : "TuHuyetCamXuc-RoyGarn-DocSachThue-p2"
+  }, {
+    "href" : "https://archive.org/download/tu-huyet-cam-xuc-suc-manh-thoi-mien-cua-loi-noi.sna/TuHuyetCamXuc-RoyGarn-DocSachThue-p3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9953,
+    "title" : "TuHuyetCamXuc-RoyGarn-DocSachThue-p3"
+  }, {
+    "href" : "https://archive.org/download/tu-huyet-cam-xuc-suc-manh-thoi-mien-cua-loi-noi.sna/TuHuyetCamXuc-RoyGarn-DocSachThue-p4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8203,
+    "title" : "TuHuyetCamXuc-RoyGarn-DocSachThue-p4"
+  }, {
+    "href" : "https://archive.org/download/tu-huyet-cam-xuc-suc-manh-thoi-mien-cua-loi-noi.sna/TuHuyetCamXuc-RoyGarn-DocSachThue-p5end.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8533,
+    "title" : "TuHuyetCamXuc-RoyGarn-DocSachThue-p5end"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tu-huyet-cam-xuc-suc-manh-thoi-mien-cua-loi-noi.sna/TuHuyetCamXuc-RoyGarn-DocSachThue-p1.mp3",
+    "title" : "TuHuyetCamXuc-RoyGarn-DocSachThue-p1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-huyet-cam-xuc-suc-manh-thoi-mien-cua-loi-noi.sna/TuHuyetCamXuc-RoyGarn-DocSachThue-p2.mp3",
+    "title" : "TuHuyetCamXuc-RoyGarn-DocSachThue-p2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-huyet-cam-xuc-suc-manh-thoi-mien-cua-loi-noi.sna/TuHuyetCamXuc-RoyGarn-DocSachThue-p3.mp3",
+    "title" : "TuHuyetCamXuc-RoyGarn-DocSachThue-p3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-huyet-cam-xuc-suc-manh-thoi-mien-cua-loi-noi.sna/TuHuyetCamXuc-RoyGarn-DocSachThue-p4.mp3",
+    "title" : "TuHuyetCamXuc-RoyGarn-DocSachThue-p4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-huyet-cam-xuc-suc-manh-thoi-mien-cua-loi-noi.sna/TuHuyetCamXuc-RoyGarn-DocSachThue-p5end.mp3",
+    "title" : "TuHuyetCamXuc-RoyGarn-DocSachThue-p5end",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

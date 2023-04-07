@@ -1,0 +1,146 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hay-yeu-thuong-cuoc-song-ban-chon_19685.html",
+    "title" : "Hãy Yêu Thương Cuộc Sống Bạn Chọn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 20461,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_a51949dd595c6f8aeaab156aa48f3bd9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_a51949dd595c6f8aeaab156aa48f3bd9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 448,
+    "title" : "HAY YEU CUOC SONG BAN CHON-01"
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2456,
+    "title" : "HAY YEU CUOC SONG BAN CHON-02"
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2287,
+    "title" : "HAY YEU CUOC SONG BAN CHON-03"
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2523,
+    "title" : "HAY YEU CUOC SONG BAN CHON-04"
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1835,
+    "title" : "HAY YEU CUOC SONG BAN CHON-05"
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1363,
+    "title" : "HAY YEU CUOC SONG BAN CHON-06"
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1775,
+    "title" : "HAY YEU CUOC SONG BAN CHON-07"
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1373,
+    "title" : "HAY YEU CUOC SONG BAN CHON-08"
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1638,
+    "title" : "HAY YEU CUOC SONG BAN CHON-09"
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2661,
+    "title" : "HAY YEU CUOC SONG BAN CHON-10"
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2102,
+    "title" : "HAY YEU CUOC SONG BAN CHON-11"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-01.mp3",
+    "title" : "HAY YEU CUOC SONG BAN CHON-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-02.mp3",
+    "title" : "HAY YEU CUOC SONG BAN CHON-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-03.mp3",
+    "title" : "HAY YEU CUOC SONG BAN CHON-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-04.mp3",
+    "title" : "HAY YEU CUOC SONG BAN CHON-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-05.mp3",
+    "title" : "HAY YEU CUOC SONG BAN CHON-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-06.mp3",
+    "title" : "HAY YEU CUOC SONG BAN CHON-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-07.mp3",
+    "title" : "HAY YEU CUOC SONG BAN CHON-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-08.mp3",
+    "title" : "HAY YEU CUOC SONG BAN CHON-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-09.mp3",
+    "title" : "HAY YEU CUOC SONG BAN CHON-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-10.mp3",
+    "title" : "HAY YEU CUOC SONG BAN CHON-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-yeu-cuoc-song-ban-chon.sna/HAY_YEU_CUOC_SONG_BAN_CHON-11.mp3",
+    "title" : "HAY YEU CUOC SONG BAN CHON-11",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

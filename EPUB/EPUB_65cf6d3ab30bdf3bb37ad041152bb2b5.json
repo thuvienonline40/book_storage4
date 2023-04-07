@@ -1,0 +1,116 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/neo-ve-cua-y_19269.html",
+    "title" : "Nẻo Về của Ý",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 25665,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_65cf6d3ab30bdf3bb37ad041152bb2b5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_65cf6d3ab30bdf3bb37ad041152bb2b5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2535,
+    "title" : "01 Neo ve cua y_chuong 1-2"
+  }, {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2415,
+    "title" : "02 Neo ve cua y_chuong 3-4"
+  }, {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2345,
+    "title" : "03 Neo ve cua y_chuong 5"
+  }, {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4424,
+    "title" : "04 Neo ve cua y_chuong 6-7"
+  }, {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4328,
+    "title" : "05 Neo ve cua y_chuong 8-9"
+  }, {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3412,
+    "title" : "06 Neo ve cua y_chuong 10-11"
+  }, {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3566,
+    "title" : "07 Neo ve cua y_chuong 12-13"
+  }, {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2640,
+    "title" : "08 Neo ve cua y_ chuong 14"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-1.mp3",
+    "title" : "01 Neo ve cua y_chuong 1-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-2.mp3",
+    "title" : "02 Neo ve cua y_chuong 3-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-3.mp3",
+    "title" : "03 Neo ve cua y_chuong 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-4.mp3",
+    "title" : "04 Neo ve cua y_chuong 6-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-5.mp3",
+    "title" : "05 Neo ve cua y_chuong 8-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-6.mp3",
+    "title" : "06 Neo ve cua y_chuong 10-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-7.mp3",
+    "title" : "07 Neo ve cua y_chuong 12-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/neo-ve-4/neo-ve-8.mp3",
+    "title" : "08 Neo ve cua y_ chuong 14",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
