@@ -1,0 +1,196 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chiec-ken-thien-nga_19907.html#gsc.tab=0",
+    "title" : "Chiếc Kèn Thiên Nga",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "E. B. White",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 37129,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_83d22fe2068374a1c512dc5f3636bfdb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_83d22fe2068374a1c512dc5f3636bfdb.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chiec-ken-1/chiec-ken-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "chiec-ken-1"
+  }, {
+    "href" : "https://archive.org/download/chiec-ken-1/chiec-ken-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "chiec-ken-2"
+  }, {
+    "href" : "https://archive.org/download/chiec-ken-1/chiec-ken-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "chiec-ken-3"
+  }, {
+    "href" : "https://archive.org/download/chiec-ken-1/chiec-ken-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "chiec-ken-4"
+  }, {
+    "href" : "https://archive.org/download/chiec-ken-1/chiec-ken-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "chiec-ken-5"
+  }, {
+    "href" : "https://archive.org/download/chiec-ken-1/chiec-ken-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3272,
+    "title" : "chiec-ken-6"
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-01.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1685,
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 1, 2, 3"
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-02.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1568,
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 4, 5"
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-03.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1667,
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 6, 7"
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1505,
+    "title" : "tien-ken-04"
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-05.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1055,
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 10, 11"
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-06.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1830,
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 12, 13, 14"
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-07.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1682,
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 15, 16"
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-08.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1985,
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 17, 18"
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-09.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 980,
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 19"
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-10.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1900,
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 20, 21 (END)"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chiec-ken-1/chiec-ken-1.mp3",
+    "title" : "chiec-ken-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-ken-1/chiec-ken-2.mp3",
+    "title" : "chiec-ken-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-ken-1/chiec-ken-3.mp3",
+    "title" : "chiec-ken-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-ken-1/chiec-ken-4.mp3",
+    "title" : "chiec-ken-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-ken-1/chiec-ken-5.mp3",
+    "title" : "chiec-ken-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chiec-ken-1/chiec-ken-6.mp3",
+    "title" : "chiec-ken-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-01.m4a",
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 1, 2, 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-02.m4a",
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 4, 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-03.m4a",
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 6, 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-04.mp3",
+    "title" : "tien-ken-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-05.m4a",
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 10, 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-06.m4a",
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 12, 13, 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-07.m4a",
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 15, 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-08.m4a",
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 17, 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-09.m4a",
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-ken-08/tien-ken-10.m4a",
+    "title" : "[Sách Nói] Tiếng Kèn Thiên Nga - Chương 20, 21 (END)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
