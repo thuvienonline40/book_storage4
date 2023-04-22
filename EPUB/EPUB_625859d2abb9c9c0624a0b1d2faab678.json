@@ -1,0 +1,496 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doc-het-trai-tim-cach-starbucks-xay-dung-cong-ty-bang-tung-tach-ca-phe_19981.html",
+    "title" : "Dốc Hết Trái Tim - Cách Starbucks Xây Dựng Công Ty Bằng Từng Tách Cà Phê",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Howard Schultz",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 84522,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_625859d2abb9c9c0624a0b1d2faab678.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_625859d2abb9c9c0624a0b1d2faab678.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/01.%20DHTT_PhanMoDau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1172,
+    "title" : "01. DHTT PhanMoDau"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/01._DHTT_PhanMoDau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1172,
+    "title" : "01. DHTT PhanMoDau"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/02.%20DHTT_M1_TriTuongTuongUocMoVaXuatThanHenKem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1992,
+    "title" : "02. DHTT M1 TriTuongTuongUocMoVaXuatThanHenKem"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/02._DHTT_M1_TriTuongTuongUocMoVaXuatThanHenKem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1992,
+    "title" : "02. DHTT M1 TriTuongTuongUocMoVaXuatThanHenKem"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/03.%20DHTT_M2_MotCoSoDiSanVungVangLaCoSoGiupBanHanhTienToiTuongLai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1957,
+    "title" : "03. DHTT M2 MotCoSoDiSanVungVangLaCoSoGiupBanHanhTienToiTuongLai"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/03._DHTT_M2_MotCoSoDiSanVungVangLaCoSoGiupBanHanhTienToiTuongLai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1957,
+    "title" : "03. DHTT M2 MotCoSoDiSanVungVangLaCoSoGiupBanHanhTienToiTuongLai"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/04.%20DHTT_M3_DoiVoiNguoiItaliaCaPheEspressoGiongNhuMotKhucAria.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2198,
+    "title" : "04. DHTT M3 DoiVoiNguoiItaliaCaPheEspressoGiongNhuMotKhucAria"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/04._DHTT_M3_DoiVoiNguoiItaliaCaPheEspressoGiongNhuMotKhucAria.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2198,
+    "title" : "04. DHTT M3 DoiVoiNguoiItaliaCaPheEspressoGiongNhuMotKhucAria"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/05.%20DHTT_M4_MayManLaCaiConLaiCuaKienTao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1560,
+    "title" : "05. DHTT M4 MayManLaCaiConLaiCuaKienTao"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/05._DHTT_M4_MayManLaCaiConLaiCuaKienTao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1560,
+    "title" : "05. DHTT M4 MayManLaCaiConLaiCuaKienTao"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/06.%20DHTT_M5_NhungNguoiLuonNoiKhongChangBaoGioXayDuocMotDoanhNghiepLon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1943,
+    "title" : "06. DHTT M5 NhungNguoiLuonNoiKhongChangBaoGioXayDuocMotDoanhNghiepLon"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/06._DHTT_M5_NhungNguoiLuonNoiKhongChangBaoGioXayDuocMotDoanhNghiepLon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1943,
+    "title" : "06. DHTT M5 NhungNguoiLuonNoiKhongChangBaoGioXayDuocMotDoanhNghiepLon"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/07.%20DHTT_M6_GhiKhacCacGiaTriCuaCongTy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2097,
+    "title" : "07. DHTT M6 GhiKhacCacGiaTriCuaCongTy"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/07._DHTT_M6_GhiKhacCacGiaTriCuaCongTy.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2097,
+    "title" : "07. DHTT M6 GhiKhacCacGiaTriCuaCongTy"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/08.%20DHTT_M7_HayThucHienUocMoVoiDoiMatRongMo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1346,
+    "title" : "08. DHTT M7 HayThucHienUocMoVoiDoiMatRongMo"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/08._DHTT_M7_HayThucHienUocMoVoiDoiMatRongMo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1346,
+    "title" : "08. DHTT M7 HayThucHienUocMoVoiDoiMatRongMo"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/09.%20DHTT_M8_NeuThuGiCuonHutDuocBanNoCungSeHapDanNguoiKhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1675,
+    "title" : "09. DHTT M8 NeuThuGiCuonHutDuocBanNoCungSeHapDanNguoiKhac"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/09._DHTT_M8_NeuThuGiCuonHutDuocBanNoCungSeHapDanNguoiKhac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1675,
+    "title" : "09. DHTT M8 NeuThuGiCuonHutDuocBanNoCungSeHapDanNguoiKhac"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/10.%20DHTT_M9_NhanVienKhongPhaiMotMonHang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2009,
+    "title" : "10. DHTT M9 NhanVienKhongPhaiMotMonHang"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/10._DHTT_M9_NhanVienKhongPhaiMotMonHang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2009,
+    "title" : "10. DHTT M9 NhanVienKhongPhaiMotMonHang"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/11.%20DHTT_M10_DeXayCaoOCTramTangTruocTienPhaiXayMotNenMongVungChac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1730,
+    "title" : "11. DHTT M10 DeXayCaoOCTramTangTruocTienPhaiXayMotNenMongVungChac"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/11._DHTT_M10_DeXayCaoOCTramTangTruocTienPhaiXayMotNenMongVungChac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1730,
+    "title" : "11. DHTT M10 DeXayCaoOCTramTangTruocTienPhaiXayMotNenMongVungChac"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/12.%20DHTT_M11_DungESoNhungNguoiGioiHonBan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1302,
+    "title" : "12. DHTT M11 DungESoNhungNguoiGioiHonBan"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/12._DHTT_M11_DungESoNhungNguoiGioiHonBan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1302,
+    "title" : "12. DHTT M11 DungESoNhungNguoiGioiHonBan"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/13.%20DHTT_M12_GiaTriCuaDiBatBienVaUngVanBien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1447,
+    "title" : "13. DHTT M12 GiaTriCuaDiBatBienVaUngVanBien"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/13._DHTT_M12_GiaTriCuaDiBatBienVaUngVanBien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1447,
+    "title" : "13. DHTT M12 GiaTriCuaDiBatBienVaUngVanBien"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/14.%20DHTT_M13_PhoWallChiXacDinhGiaTriCuaMotCongTyChuKhongPhaiGiaTriCuaNo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1331,
+    "title" : "14. DHTT M13 PhoWallChiXacDinhGiaTriCuaMotCongTyChuKhongPhaiGiaTriCuaNo"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/14._DHTT_M13_PhoWallChiXacDinhGiaTriCuaMotCongTyChuKhongPhaiGiaTriCuaNo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1331,
+    "title" : "14. DHTT M13 PhoWallChiXacDinhGiaTriCuaMotCongTyChuKhongPhaiGiaTriCuaNo"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/15.%20DHTT_M14_KhiBanSanLongTaiPhatMinhDungQuenLamMoiChinhBanThanMinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1961,
+    "title" : "15. DHTT M14 KhiBanSanLongTaiPhatMinhDungQuenLamMoiChinhBanThanMinh"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/15._DHTT_M14_KhiBanSanLongTaiPhatMinhDungQuenLamMoiChinhBanThanMinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1961,
+    "title" : "15. DHTT M14 KhiBanSanLongTaiPhatMinhDungQuenLamMoiChinhBanThanMinh"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/16.%20DHTT_M15_DungDeDoanhNhanCanThiepVaoTinhThanDoanhNghiep.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1293,
+    "title" : "16. DHTT M15 DungDeDoanhNhanCanThiepVaoTinhThanDoanhNghiep"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/16._DHTT_M15_DungDeDoanhNhanCanThiepVaoTinhThanDoanhNghiep.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1293,
+    "title" : "16. DHTT M15 DungDeDoanhNhanCanThiepVaoTinhThanDoanhNghiep"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/17.%20DHTT_M16_HayNoLucDoiMoiBanThanNgayCaKhiBanDangThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1744,
+    "title" : "17. DHTT M16 HayNoLucDoiMoiBanThanNgayCaKhiBanDangThanhCong"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/17._DHTT_M16_HayNoLucDoiMoiBanThanNgayCaKhiBanDangThanhCong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1744,
+    "title" : "17. DHTT M16 HayNoLucDoiMoiBanThanNgayCaKhiBanDangThanhCong"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/18.%20DHTT_M17_KhungHoangGiaCa_KhungHoangGiaTri.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1647,
+    "title" : "18. DHTT M17 KhungHoangGiaCa KhungHoangGiaTri"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/18._DHTT_M17_KhungHoangGiaCa_KhungHoangGiaTri.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1647,
+    "title" : "18. DHTT M17 KhungHoangGiaCa KhungHoangGiaTri"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/19.%20DHTT_M18_CachTotNhatDeXayDungMotThuongHieuLaXayDungTuTungNguoiMot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3123,
+    "title" : "19. DHTT M18 CachTotNhatDeXayDungMotThuongHieuLaXayDungTuTungNguoiMot"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/19._DHTT_M18_CachTotNhatDeXayDungMotThuongHieuLaXayDungTuTungNguoiMot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3123,
+    "title" : "19. DHTT M18 CachTotNhatDeXayDungMotThuongHieuLaXayDungTuTungNguoiMot"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/20.%20DHTT_M19_HaiMuoiTrieuMoiLaGiacMoDangDeTaChapNhanMaoHiem_M20_BanCoTheLonManhMaVanGiuDuocSuNhoBeCanThietCuaMinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3011,
+    "title" : "20. DHTT M19 HaiMuoiTrieuMoiLaGiacMoDangDeTaChapNhanMaoHiem M20..."
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/20._DHTT_M19_HaiMuoiTrieuMoiLaGiacMoDangDeTaChapNhanMaoHiem_M20_BanCoTheLonManhMaVanGiuDuocSuNhoBeCanThietCuaMinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3011,
+    "title" : "20. DHTT M19 HaiMuoiTrieuMoiLaGiacMoDangDeTaChapNhanMaoHiem M20..."
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/21.%20DHTT_M21_MotCongTyCoTheCoTrachNhiemVoiXaHoiDenMucNao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1631,
+    "title" : "21. DHTT M21 MotCongTyCoTheCoTrachNhiemVoiXaHoiDenMucNao"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/21._DHTT_M21_MotCongTyCoTheCoTrachNhiemVoiXaHoiDenMucNao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1631,
+    "title" : "21. DHTT M21 MotCongTyCoTheCoTrachNhiemVoiXaHoiDenMucNao"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/22.%20DHTT_M22_DungLaMotHeThongBanLeDapKhuonTeNhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1479,
+    "title" : "22. DHTT M22 DungLaMotHeThongBanLeDapKhuonTeNhat"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/22._DHTT_M22_DungLaMotHeThongBanLeDapKhuonTeNhat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1479,
+    "title" : "22. DHTT M22 DungLaMotHeThongBanLeDapKhuonTeNhat"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/23.%20DHTT_M23_KhiHoBaoBanPhaiTapTrungDungThanhNguoiThienCan_M24_LanhDaoBangTraiTim_HET.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2613,
+    "title" : "23. DHTT M23 KhiHoBaoBanPhaiTapTrungDungThanhNguoiThienCan M24 LanhDaoBangTraiTim HET"
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/23._DHTT_M23_KhiHoBaoBanPhaiTapTrungDungThanhNguoiThienCan_M24_LanhDaoBangTraiTim_HET.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2613,
+    "title" : "23. DHTT M23 KhiHoBaoBanPhaiTapTrungDungThanhNguoiThienCan M24 LanhDaoBangTraiTim HET"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/01.%20DHTT_PhanMoDau.mp3",
+    "title" : "01. DHTT PhanMoDau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/01._DHTT_PhanMoDau.mp3",
+    "title" : "01. DHTT PhanMoDau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/02.%20DHTT_M1_TriTuongTuongUocMoVaXuatThanHenKem.mp3",
+    "title" : "02. DHTT M1 TriTuongTuongUocMoVaXuatThanHenKem",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/02._DHTT_M1_TriTuongTuongUocMoVaXuatThanHenKem.mp3",
+    "title" : "02. DHTT M1 TriTuongTuongUocMoVaXuatThanHenKem",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/03.%20DHTT_M2_MotCoSoDiSanVungVangLaCoSoGiupBanHanhTienToiTuongLai.mp3",
+    "title" : "03. DHTT M2 MotCoSoDiSanVungVangLaCoSoGiupBanHanhTienToiTuongLai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/03._DHTT_M2_MotCoSoDiSanVungVangLaCoSoGiupBanHanhTienToiTuongLai.mp3",
+    "title" : "03. DHTT M2 MotCoSoDiSanVungVangLaCoSoGiupBanHanhTienToiTuongLai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/04.%20DHTT_M3_DoiVoiNguoiItaliaCaPheEspressoGiongNhuMotKhucAria.mp3",
+    "title" : "04. DHTT M3 DoiVoiNguoiItaliaCaPheEspressoGiongNhuMotKhucAria",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/04._DHTT_M3_DoiVoiNguoiItaliaCaPheEspressoGiongNhuMotKhucAria.mp3",
+    "title" : "04. DHTT M3 DoiVoiNguoiItaliaCaPheEspressoGiongNhuMotKhucAria",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/05.%20DHTT_M4_MayManLaCaiConLaiCuaKienTao.mp3",
+    "title" : "05. DHTT M4 MayManLaCaiConLaiCuaKienTao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/05._DHTT_M4_MayManLaCaiConLaiCuaKienTao.mp3",
+    "title" : "05. DHTT M4 MayManLaCaiConLaiCuaKienTao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/06.%20DHTT_M5_NhungNguoiLuonNoiKhongChangBaoGioXayDuocMotDoanhNghiepLon.mp3",
+    "title" : "06. DHTT M5 NhungNguoiLuonNoiKhongChangBaoGioXayDuocMotDoanhNghiepLon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/06._DHTT_M5_NhungNguoiLuonNoiKhongChangBaoGioXayDuocMotDoanhNghiepLon.mp3",
+    "title" : "06. DHTT M5 NhungNguoiLuonNoiKhongChangBaoGioXayDuocMotDoanhNghiepLon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/07.%20DHTT_M6_GhiKhacCacGiaTriCuaCongTy.mp3",
+    "title" : "07. DHTT M6 GhiKhacCacGiaTriCuaCongTy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/07._DHTT_M6_GhiKhacCacGiaTriCuaCongTy.mp3",
+    "title" : "07. DHTT M6 GhiKhacCacGiaTriCuaCongTy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/08.%20DHTT_M7_HayThucHienUocMoVoiDoiMatRongMo.mp3",
+    "title" : "08. DHTT M7 HayThucHienUocMoVoiDoiMatRongMo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/08._DHTT_M7_HayThucHienUocMoVoiDoiMatRongMo.mp3",
+    "title" : "08. DHTT M7 HayThucHienUocMoVoiDoiMatRongMo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/09.%20DHTT_M8_NeuThuGiCuonHutDuocBanNoCungSeHapDanNguoiKhac.mp3",
+    "title" : "09. DHTT M8 NeuThuGiCuonHutDuocBanNoCungSeHapDanNguoiKhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/09._DHTT_M8_NeuThuGiCuonHutDuocBanNoCungSeHapDanNguoiKhac.mp3",
+    "title" : "09. DHTT M8 NeuThuGiCuonHutDuocBanNoCungSeHapDanNguoiKhac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/10.%20DHTT_M9_NhanVienKhongPhaiMotMonHang.mp3",
+    "title" : "10. DHTT M9 NhanVienKhongPhaiMotMonHang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/10._DHTT_M9_NhanVienKhongPhaiMotMonHang.mp3",
+    "title" : "10. DHTT M9 NhanVienKhongPhaiMotMonHang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/11.%20DHTT_M10_DeXayCaoOCTramTangTruocTienPhaiXayMotNenMongVungChac.mp3",
+    "title" : "11. DHTT M10 DeXayCaoOCTramTangTruocTienPhaiXayMotNenMongVungChac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/11._DHTT_M10_DeXayCaoOCTramTangTruocTienPhaiXayMotNenMongVungChac.mp3",
+    "title" : "11. DHTT M10 DeXayCaoOCTramTangTruocTienPhaiXayMotNenMongVungChac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/12.%20DHTT_M11_DungESoNhungNguoiGioiHonBan.mp3",
+    "title" : "12. DHTT M11 DungESoNhungNguoiGioiHonBan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/12._DHTT_M11_DungESoNhungNguoiGioiHonBan.mp3",
+    "title" : "12. DHTT M11 DungESoNhungNguoiGioiHonBan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/13.%20DHTT_M12_GiaTriCuaDiBatBienVaUngVanBien.mp3",
+    "title" : "13. DHTT M12 GiaTriCuaDiBatBienVaUngVanBien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/13._DHTT_M12_GiaTriCuaDiBatBienVaUngVanBien.mp3",
+    "title" : "13. DHTT M12 GiaTriCuaDiBatBienVaUngVanBien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/14.%20DHTT_M13_PhoWallChiXacDinhGiaTriCuaMotCongTyChuKhongPhaiGiaTriCuaNo.mp3",
+    "title" : "14. DHTT M13 PhoWallChiXacDinhGiaTriCuaMotCongTyChuKhongPhaiGiaTriCuaNo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/14._DHTT_M13_PhoWallChiXacDinhGiaTriCuaMotCongTyChuKhongPhaiGiaTriCuaNo.mp3",
+    "title" : "14. DHTT M13 PhoWallChiXacDinhGiaTriCuaMotCongTyChuKhongPhaiGiaTriCuaNo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/15.%20DHTT_M14_KhiBanSanLongTaiPhatMinhDungQuenLamMoiChinhBanThanMinh.mp3",
+    "title" : "15. DHTT M14 KhiBanSanLongTaiPhatMinhDungQuenLamMoiChinhBanThanMinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/15._DHTT_M14_KhiBanSanLongTaiPhatMinhDungQuenLamMoiChinhBanThanMinh.mp3",
+    "title" : "15. DHTT M14 KhiBanSanLongTaiPhatMinhDungQuenLamMoiChinhBanThanMinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/16.%20DHTT_M15_DungDeDoanhNhanCanThiepVaoTinhThanDoanhNghiep.mp3",
+    "title" : "16. DHTT M15 DungDeDoanhNhanCanThiepVaoTinhThanDoanhNghiep",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/16._DHTT_M15_DungDeDoanhNhanCanThiepVaoTinhThanDoanhNghiep.mp3",
+    "title" : "16. DHTT M15 DungDeDoanhNhanCanThiepVaoTinhThanDoanhNghiep",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/17.%20DHTT_M16_HayNoLucDoiMoiBanThanNgayCaKhiBanDangThanhCong.mp3",
+    "title" : "17. DHTT M16 HayNoLucDoiMoiBanThanNgayCaKhiBanDangThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/17._DHTT_M16_HayNoLucDoiMoiBanThanNgayCaKhiBanDangThanhCong.mp3",
+    "title" : "17. DHTT M16 HayNoLucDoiMoiBanThanNgayCaKhiBanDangThanhCong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/18.%20DHTT_M17_KhungHoangGiaCa_KhungHoangGiaTri.mp3",
+    "title" : "18. DHTT M17 KhungHoangGiaCa KhungHoangGiaTri",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/18._DHTT_M17_KhungHoangGiaCa_KhungHoangGiaTri.mp3",
+    "title" : "18. DHTT M17 KhungHoangGiaCa KhungHoangGiaTri",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/19.%20DHTT_M18_CachTotNhatDeXayDungMotThuongHieuLaXayDungTuTungNguoiMot.mp3",
+    "title" : "19. DHTT M18 CachTotNhatDeXayDungMotThuongHieuLaXayDungTuTungNguoiMot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/19._DHTT_M18_CachTotNhatDeXayDungMotThuongHieuLaXayDungTuTungNguoiMot.mp3",
+    "title" : "19. DHTT M18 CachTotNhatDeXayDungMotThuongHieuLaXayDungTuTungNguoiMot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/20.%20DHTT_M19_HaiMuoiTrieuMoiLaGiacMoDangDeTaChapNhanMaoHiem_M20_BanCoTheLonManhMaVanGiuDuocSuNhoBeCanThietCuaMinh.mp3",
+    "title" : "20. DHTT M19 HaiMuoiTrieuMoiLaGiacMoDangDeTaChapNhanMaoHiem M20...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/20._DHTT_M19_HaiMuoiTrieuMoiLaGiacMoDangDeTaChapNhanMaoHiem_M20_BanCoTheLonManhMaVanGiuDuocSuNhoBeCanThietCuaMinh.mp3",
+    "title" : "20. DHTT M19 HaiMuoiTrieuMoiLaGiacMoDangDeTaChapNhanMaoHiem M20...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/21.%20DHTT_M21_MotCongTyCoTheCoTrachNhiemVoiXaHoiDenMucNao.mp3",
+    "title" : "21. DHTT M21 MotCongTyCoTheCoTrachNhiemVoiXaHoiDenMucNao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/21._DHTT_M21_MotCongTyCoTheCoTrachNhiemVoiXaHoiDenMucNao.mp3",
+    "title" : "21. DHTT M21 MotCongTyCoTheCoTrachNhiemVoiXaHoiDenMucNao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/22.%20DHTT_M22_DungLaMotHeThongBanLeDapKhuonTeNhat.mp3",
+    "title" : "22. DHTT M22 DungLaMotHeThongBanLeDapKhuonTeNhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/22._DHTT_M22_DungLaMotHeThongBanLeDapKhuonTeNhat.mp3",
+    "title" : "22. DHTT M22 DungLaMotHeThongBanLeDapKhuonTeNhat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/23.%20DHTT_M23_KhiHoBaoBanPhaiTapTrungDungThanhNguoiThienCan_M24_LanhDaoBangTraiTim_HET.mp3",
+    "title" : "23. DHTT M23 KhiHoBaoBanPhaiTapTrungDungThanhNguoiThienCan M24 LanhDaoBangTraiTim HET",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doc-het-trai-tim.sna/23._DHTT_M23_KhiHoBaoBanPhaiTapTrungDungThanhNguoiThienCan_M24_LanhDaoBangTraiTim_HET.mp3",
+    "title" : "23. DHTT M23 KhiHoBaoBanPhaiTapTrungDungThanhNguoiThienCan M24 LanhDaoBangTraiTim HET",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

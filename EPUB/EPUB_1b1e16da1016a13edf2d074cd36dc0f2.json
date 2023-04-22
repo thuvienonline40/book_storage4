@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/luong-van-can-xay-dung-dao-kinh-doanh-cho-nguoi-viet_20083.html",
+    "title" : "Lương Văn Can: Xây Dựng Đạo Kinh Doanh Cho Người Việt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hồng Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 14022,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_1b1e16da1016a13edf2d074cd36dc0f2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_1b1e16da1016a13edf2d074cd36dc0f2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/luong-van-can-xay-dung-dao-kinh-doanh-cho-nguoi-viet.sna/00.GioiThieu_LuongVanCan_XayDungDaoKinhDoanhChoNguoiViet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1610,
+    "title" : "00.GioiThieu LuongVanCan XayDungDaoKinhDoanhChoNguoiViet"
+  }, {
+    "href" : "https://archive.org/download/luong-van-can-xay-dung-dao-kinh-doanh-cho-nguoi-viet.sna/01.C01A_CungXanTayDoiThayVanNuoc_LuongVanCan_XayDungDaoKinhDoanhChoNguoiViec.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3093,
+    "title" : "01.C01A CungXanTayDoiThayVanNuoc LuongVanCan XayDungDaoKinhDoanhChoNguoiViec"
+  }, {
+    "href" : "https://archive.org/download/luong-van-can-xay-dung-dao-kinh-doanh-cho-nguoi-viet.sna/02.C01B_CungXanTayDoiThayDatNuoc_LuongVanCan_XayDungDaoKinhDoanhChoNguoiViet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2574,
+    "title" : "02.C01B CungXanTayDoiThayDatNuoc LuongVanCan XayDungDaoKinhDoanhChoNguoiViet"
+  }, {
+    "href" : "https://archive.org/download/luong-van-can-xay-dung-dao-kinh-doanh-cho-nguoi-viet.sna/03.C02_KinhDoanhDePhungSuToQoc_LuongVanCan_XayDungDaoKinhDoanhChoNguoiViet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1781,
+    "title" : "03.C02 KinhDoanhDePhungSuToQoc LuongVanCan XayDungDaoKinhDoanhChoNguoiViet"
+  }, {
+    "href" : "https://archive.org/download/luong-van-can-xay-dung-dao-kinh-doanh-cho-nguoi-viet.sna/04.C03_DaoKinhDoanhCuaNguoiViet_LuongVanCan_XayDungDaoKinhDoanhChoNguoiViet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2943,
+    "title" : "04.C03 DaoKinhDoanhCuaNguoiViet LuongVanCan XayDungDaoKinhDoanhChoNguoiViet"
+  }, {
+    "href" : "https://archive.org/download/luong-van-can-xay-dung-dao-kinh-doanh-cho-nguoi-viet.sna/05.C04_Het_TiepTucSuNghiepKhaiDanTriChanDanKhi_LuongVanCanXayDungDaoKinhDoanhChoNguoiViet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2021,
+    "title" : "05.C04 Het TiepTucSuNghiepKhaiDanTriChanDanKhi LuongVanCanXayDungDaoKinhDoanhChoNguoiViet"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/luong-van-can-xay-dung-dao-kinh-doanh-cho-nguoi-viet.sna/00.GioiThieu_LuongVanCan_XayDungDaoKinhDoanhChoNguoiViet.mp3",
+    "title" : "00.GioiThieu LuongVanCan XayDungDaoKinhDoanhChoNguoiViet",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-van-can-xay-dung-dao-kinh-doanh-cho-nguoi-viet.sna/01.C01A_CungXanTayDoiThayVanNuoc_LuongVanCan_XayDungDaoKinhDoanhChoNguoiViec.mp3",
+    "title" : "01.C01A CungXanTayDoiThayVanNuoc LuongVanCan XayDungDaoKinhDoanhChoNguoiViec",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-van-can-xay-dung-dao-kinh-doanh-cho-nguoi-viet.sna/02.C01B_CungXanTayDoiThayDatNuoc_LuongVanCan_XayDungDaoKinhDoanhChoNguoiViet.mp3",
+    "title" : "02.C01B CungXanTayDoiThayDatNuoc LuongVanCan XayDungDaoKinhDoanhChoNguoiViet",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-van-can-xay-dung-dao-kinh-doanh-cho-nguoi-viet.sna/03.C02_KinhDoanhDePhungSuToQoc_LuongVanCan_XayDungDaoKinhDoanhChoNguoiViet.mp3",
+    "title" : "03.C02 KinhDoanhDePhungSuToQoc LuongVanCan XayDungDaoKinhDoanhChoNguoiViet",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-van-can-xay-dung-dao-kinh-doanh-cho-nguoi-viet.sna/04.C03_DaoKinhDoanhCuaNguoiViet_LuongVanCan_XayDungDaoKinhDoanhChoNguoiViet.mp3",
+    "title" : "04.C03 DaoKinhDoanhCuaNguoiViet LuongVanCan XayDungDaoKinhDoanhChoNguoiViet",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luong-van-can-xay-dung-dao-kinh-doanh-cho-nguoi-viet.sna/05.C04_Het_TiepTucSuNghiepKhaiDanTriChanDanKhi_LuongVanCanXayDungDaoKinhDoanhChoNguoiViet.mp3",
+    "title" : "05.C04 Het TiepTucSuNghiepKhaiDanTriChanDanKhi LuongVanCanXayDungDaoKinhDoanhChoNguoiViet",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/17-cay-so-duong-ma_20062.html",
+    "title" : "17 Cây Số Đường Ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Võ Diệu Thanh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 15203,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_69a587d8cc1725596042ef5b95c61396.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_69a587d8cc1725596042ef5b95c61396.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/17-cay-so-duong-ma.sna/17_CAY_SO_DUONG_MA_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2183,
+    "title" : "17 CAY SO DUONG MA 01"
+  }, {
+    "href" : "https://archive.org/download/17-cay-so-duong-ma.sna/17_CAY_SO_DUONG_MA_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2840,
+    "title" : "17 CAY SO DUONG MA 02"
+  }, {
+    "href" : "https://archive.org/download/17-cay-so-duong-ma.sna/17_CAY_SO_DUONG_MA_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3492,
+    "title" : "17 CAY SO DUONG MA 03"
+  }, {
+    "href" : "https://archive.org/download/17-cay-so-duong-ma.sna/17_CAY_SO_DUONG_MA_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1816,
+    "title" : "17 CAY SO DUONG MA 04"
+  }, {
+    "href" : "https://archive.org/download/17-cay-so-duong-ma.sna/17_CAY_SO_DUONG_MA_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3283,
+    "title" : "17 CAY SO DUONG MA 05"
+  }, {
+    "href" : "https://archive.org/download/17-cay-so-duong-ma.sna/17_CAY_SO_DUONG_MA_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1589,
+    "title" : "17 CAY SO DUONG MA 06"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/17-cay-so-duong-ma.sna/17_CAY_SO_DUONG_MA_01.mp3",
+    "title" : "17 CAY SO DUONG MA 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/17-cay-so-duong-ma.sna/17_CAY_SO_DUONG_MA_02.mp3",
+    "title" : "17 CAY SO DUONG MA 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/17-cay-so-duong-ma.sna/17_CAY_SO_DUONG_MA_03.mp3",
+    "title" : "17 CAY SO DUONG MA 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/17-cay-so-duong-ma.sna/17_CAY_SO_DUONG_MA_04.mp3",
+    "title" : "17 CAY SO DUONG MA 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/17-cay-so-duong-ma.sna/17_CAY_SO_DUONG_MA_05.mp3",
+    "title" : "17 CAY SO DUONG MA 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/17-cay-so-duong-ma.sna/17_CAY_SO_DUONG_MA_06.mp3",
+    "title" : "17 CAY SO DUONG MA 06",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

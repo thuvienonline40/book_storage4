@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chinh-phuc-muc-tieu_20030.html",
+    "title" : "Chinh Phục Mục Tiêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Brian Tracy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 7142,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_723bf8d7e121b112873124e2202250b8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_723bf8d7e121b112873124e2202250b8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chinhphucmuctieu/Brian%20Tracy%20_%20%20REVIEW%20S%C3%81CH%20_%20S%C3%81CH%20T%C3%93M%20T%E1%BA%AET_%20OPEN%20BOOK%20OPEN%20FUTURE%20-%20CHINH%20PH%E1%BB%A4C%20M%E1%BB%A4C%20TI%C3%8AU.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7142,
+    "title" : "CHINH PHỤC MỤC TIÊU"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chinhphucmuctieu/Brian%20Tracy%20_%20%20REVIEW%20S%C3%81CH%20_%20S%C3%81CH%20T%C3%93M%20T%E1%BA%AET_%20OPEN%20BOOK%20OPEN%20FUTURE%20-%20CHINH%20PH%E1%BB%A4C%20M%E1%BB%A4C%20TI%C3%8AU.mp3",
+    "title" : "CHINH PHỤC MỤC TIÊU",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

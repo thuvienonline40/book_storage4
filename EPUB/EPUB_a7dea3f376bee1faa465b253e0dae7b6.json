@@ -1,0 +1,316 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anh-chang-hobbit_20013.html",
+    "title" : "Anh Chàng Hobbit",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "J.R.R. Tolkien",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 42945,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/EPUB/EPUB_a7dea3f376bee1faa465b253e0dae7b6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage4/main/IMAGE/IMAGE_a7dea3f376bee1faa465b253e0dae7b6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1759,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 1 || PHẦN 1"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1928,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 1 || PHẦN 2"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1457,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 2 || PHẦN 1"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 993,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 2 || PHẦN 2"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1341,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 3"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1769,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 4"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1680,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 5 || PHẦN 1"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1569,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 5 || PHẦN 2"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1356,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 6 || PHẦN 1"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1496,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 6 || PHẦN 2"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1218,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 7 || PHẦN 1"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1218,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 7 || PHẦN 2"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1416,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 7 || PHẦN 3"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1515,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 8 || PHẦN 1"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1332,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 8 || PHẦN 2"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1549,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 8 || PHẦN 3"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2486,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 9"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1816,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 10"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1336,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 11"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1653,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 12 || PHẦN 1"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1734,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 12 || PHẦN 2"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1792,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 13"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1451,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 14"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1591,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 15"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1035,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 16"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1774,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 17"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1469,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 18"
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1212,
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 19 (THE END)"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-01.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 1 || PHẦN 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-02.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 1 || PHẦN 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-03.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 2 || PHẦN 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-04.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 2 || PHẦN 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-05.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-06.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-07.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 5 || PHẦN 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-08.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 5 || PHẦN 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-09.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 6 || PHẦN 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-10.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 6 || PHẦN 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-11.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 7 || PHẦN 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-12.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 7 || PHẦN 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-13.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 7 || PHẦN 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-14.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 8 || PHẦN 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-15.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 8 || PHẦN 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-16.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 8 || PHẦN 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-17.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-18.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-19.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-20.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 12 || PHẦN 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-21.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 12 || PHẦN 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-22.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-23.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-24.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-25.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-26.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-27.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-hobbit-17/the-hobbit-28.mp3",
+    "title" : "THE HOBBIT (AUDIO) || CHƯƠNG 19 (THE END)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
