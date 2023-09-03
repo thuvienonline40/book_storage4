@@ -13,9 +13,14 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-04-22",
+    "published" : "2023-08-19",
     "duration" : 7142,
     "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
     "@type" : "http://schema.org/Audiobook",
     "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
   },
@@ -31,15 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/chinhphucmuctieu/Brian%20Tracy%20_%20%20REVIEW%20S%C3%81CH%20_%20S%C3%81CH%20T%C3%93M%20T%E1%BA%AET_%20OPEN%20BOOK%20OPEN%20FUTURE%20-%20CHINH%20PH%E1%BB%A4C%20M%E1%BB%A4C%20TI%C3%8AU.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_723bf8d7e121b112873124e2202250b8_ab1a6ee95e75b3ea7c95771e75d5a300_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7142,
-    "title" : "CHINH PHỤC MỤC TIÊU"
+    "duration" : 0,
+    "title" : "CHINH PHỤC MỤC TIÊU (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_723bf8d7e121b112873124e2202250b8_ab1a6ee95e75b3ea7c95771e75d5a300_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "CHINH PHỤC MỤC TIÊU (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_723bf8d7e121b112873124e2202250b8_ab1a6ee95e75b3ea7c95771e75d5a300_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "CHINH PHỤC MỤC TIÊU (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_723bf8d7e121b112873124e2202250b8_ab1a6ee95e75b3ea7c95771e75d5a300_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "CHINH PHỤC MỤC TIÊU (4)",
+    "properties" : null,
+    "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/chinhphucmuctieu/Brian%20Tracy%20_%20%20REVIEW%20S%C3%81CH%20_%20S%C3%81CH%20T%C3%93M%20T%E1%BA%AET_%20OPEN%20BOOK%20OPEN%20FUTURE%20-%20CHINH%20PH%E1%BB%A4C%20M%E1%BB%A4C%20TI%C3%8AU.mp3",
-    "title" : "CHINH PHỤC MỤC TIÊU",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_723bf8d7e121b112873124e2202250b8_ab1a6ee95e75b3ea7c95771e75d5a300_1.mp3",
+    "title" : "CHINH PHỤC MỤC TIÊU (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_723bf8d7e121b112873124e2202250b8_ab1a6ee95e75b3ea7c95771e75d5a300_2.mp3",
+    "title" : "CHINH PHỤC MỤC TIÊU (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_723bf8d7e121b112873124e2202250b8_ab1a6ee95e75b3ea7c95771e75d5a300_3.mp3",
+    "title" : "CHINH PHỤC MỤC TIÊU (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_723bf8d7e121b112873124e2202250b8_ab1a6ee95e75b3ea7c95771e75d5a300_4.mp3",
+    "title" : "CHINH PHỤC MỤC TIÊU (4)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,9 +13,14 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-04-22",
+    "published" : "2023-08-25",
     "duration" : 8769,
     "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
     "@type" : "http://schema.org/Audiobook",
     "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
   },
@@ -31,45 +36,89 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nha-quan-ly-tai-nang.sna/01.NQLTN_C01_NhungKienThucCoBanNhaQuanLyCanCo.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0d94d2b6ab92d720871a9490e4ded619_42b740edbf1753259a467ba4d15af256.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1817,
-    "title" : "01.NQLTN C01 NhungKienThucCoBanNhaQuanLyCanCo"
+    "title" : "01.NQLTN C01 NhungKienThucCoBanNhaQuanLyCanCo",
+    "properties" : null,
+    "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nha-quan-ly-tai-nang.sna/02.NQLTN_C02A_VaiTroCuaNhaQuanLy.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0d94d2b6ab92d720871a9490e4ded619_aa67763e902b9667ee329479440bc3ef_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2278,
-    "title" : "02.NQLTN C02A VaiTroCuaNhaQuanLy"
+    "duration" : 0,
+    "title" : "02.NQLTN C02A VaiTroCuaNhaQuanLy (1)",
+    "properties" : null,
+    "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nha-quan-ly-tai-nang.sna/03.NQLTN_C02B_VaiTroCuaNhaQuanLy.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0d94d2b6ab92d720871a9490e4ded619_aa67763e902b9667ee329479440bc3ef_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2396,
-    "title" : "03.NQLTN C02B VaiTroCuaNhaQuanLy"
+    "duration" : 0,
+    "title" : "02.NQLTN C02A VaiTroCuaNhaQuanLy (2)",
+    "properties" : null,
+    "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nha-quan-ly-tai-nang.sna/04.NQLTN_C03_NhungKyNangCanThietCuaNhaQuanLy_HET.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0d94d2b6ab92d720871a9490e4ded619_9156979d6e0197f219db80fba0fc7950_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2278,
-    "title" : "04.NQLTN C03 NhungKyNangCanThietCuaNhaQuanLy HET"
+    "duration" : 0,
+    "title" : "03.NQLTN C02B VaiTroCuaNhaQuanLy (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0d94d2b6ab92d720871a9490e4ded619_9156979d6e0197f219db80fba0fc7950_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03.NQLTN C02B VaiTroCuaNhaQuanLy (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0d94d2b6ab92d720871a9490e4ded619_8ef3c1508246ae8fa30deb686833488a_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04.NQLTN C03 NhungKyNangCanThietCuaNhaQuanLy HET (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0d94d2b6ab92d720871a9490e4ded619_8ef3c1508246ae8fa30deb686833488a_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04.NQLTN C03 NhungKyNangCanThietCuaNhaQuanLy HET (2)",
+    "properties" : null,
+    "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nha-quan-ly-tai-nang.sna/01.NQLTN_C01_NhungKienThucCoBanNhaQuanLyCanCo.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0d94d2b6ab92d720871a9490e4ded619_42b740edbf1753259a467ba4d15af256.mp3",
     "title" : "01.NQLTN C01 NhungKienThucCoBanNhaQuanLyCanCo",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nha-quan-ly-tai-nang.sna/02.NQLTN_C02A_VaiTroCuaNhaQuanLy.mp3",
-    "title" : "02.NQLTN C02A VaiTroCuaNhaQuanLy",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0d94d2b6ab92d720871a9490e4ded619_aa67763e902b9667ee329479440bc3ef_1.mp3",
+    "title" : "02.NQLTN C02A VaiTroCuaNhaQuanLy (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nha-quan-ly-tai-nang.sna/03.NQLTN_C02B_VaiTroCuaNhaQuanLy.mp3",
-    "title" : "03.NQLTN C02B VaiTroCuaNhaQuanLy",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0d94d2b6ab92d720871a9490e4ded619_aa67763e902b9667ee329479440bc3ef_2.mp3",
+    "title" : "02.NQLTN C02A VaiTroCuaNhaQuanLy (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nha-quan-ly-tai-nang.sna/04.NQLTN_C03_NhungKyNangCanThietCuaNhaQuanLy_HET.mp3",
-    "title" : "04.NQLTN C03 NhungKyNangCanThietCuaNhaQuanLy HET",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0d94d2b6ab92d720871a9490e4ded619_9156979d6e0197f219db80fba0fc7950_1.mp3",
+    "title" : "03.NQLTN C02B VaiTroCuaNhaQuanLy (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0d94d2b6ab92d720871a9490e4ded619_9156979d6e0197f219db80fba0fc7950_2.mp3",
+    "title" : "03.NQLTN C02B VaiTroCuaNhaQuanLy (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0d94d2b6ab92d720871a9490e4ded619_8ef3c1508246ae8fa30deb686833488a_1.mp3",
+    "title" : "04.NQLTN C03 NhungKyNangCanThietCuaNhaQuanLy HET (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_0d94d2b6ab92d720871a9490e4ded619_8ef3c1508246ae8fa30deb686833488a_2.mp3",
+    "title" : "04.NQLTN C03 NhungKyNangCanThietCuaNhaQuanLy HET (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
