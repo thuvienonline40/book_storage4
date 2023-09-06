@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-23",
-    "duration" : 4216,
+    "published" : "2023-09-06",
+    "duration" : 5724,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,23 +36,15 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_11db5ba26c40b37e4ba19737bbba50c0_6894ee38deb7f429b15871dc37d0e8b3_1.mp3",
+    "href" : "https://archive.org/download/duc-phat-2/duc-phat-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01_Duc-Phat-Thuyet-Giang-Ve-Tanh-Khong_Kinh Culasunnata-sutta (1)",
+    "duration" : 1422,
+    "title" : "01_Duc-Phat-Thuyet-Giang-Ve-Tanh-Khong_Kinh Culasunnata-sutta",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_11db5ba26c40b37e4ba19737bbba50c0_6894ee38deb7f429b15871dc37d0e8b3_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01_Duc-Phat-Thuyet-Giang-Ve-Tanh-Khong_Kinh Culasunnata-sutta (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_11db5ba26c40b37e4ba19737bbba50c0_024f9030aca0fa950a1ee6d733268646.mp3",
+    "href" : "https://archive.org/download/duc-phat-2/duc-phat-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1508,
@@ -60,41 +52,25 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_11db5ba26c40b37e4ba19737bbba50c0_e9c3acb5f88e8f86a62361a55afb5eb0_1.mp3",
+    "href" : "https://archive.org/download/duc-phat-2/duc-phat-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "03_Duc-Phat-Thuyet-Vo-Nga_Kinh Anattalakkahanasutta-Samyuktagamasutra (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_11db5ba26c40b37e4ba19737bbba50c0_e9c3acb5f88e8f86a62361a55afb5eb0_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "03_Duc-Phat-Thuyet-Vo-Nga_Kinh Anattalakkahanasutta-Samyuktagamasutra (2)",
+    "duration" : 1286,
+    "title" : "03_Duc-Phat-Thuyet-Vo-Nga_Kinh Anattalakkahanasutta-Samyuktagamasutra",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_11db5ba26c40b37e4ba19737bbba50c0_6894ee38deb7f429b15871dc37d0e8b3_1.mp3",
-    "title" : "01_Duc-Phat-Thuyet-Giang-Ve-Tanh-Khong_Kinh Culasunnata-sutta (1)",
+    "href" : "https://archive.org/download/duc-phat-2/duc-phat-1.mp3",
+    "title" : "01_Duc-Phat-Thuyet-Giang-Ve-Tanh-Khong_Kinh Culasunnata-sutta",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_11db5ba26c40b37e4ba19737bbba50c0_6894ee38deb7f429b15871dc37d0e8b3_2.mp3",
-    "title" : "01_Duc-Phat-Thuyet-Giang-Ve-Tanh-Khong_Kinh Culasunnata-sutta (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_11db5ba26c40b37e4ba19737bbba50c0_024f9030aca0fa950a1ee6d733268646.mp3",
+    "href" : "https://archive.org/download/duc-phat-2/duc-phat-2.mp3",
     "title" : "02_Duc-Phat-Thuyet-Giang-Ve-Tanh-Khong_Kinh Mahasunnata-sutta",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_11db5ba26c40b37e4ba19737bbba50c0_e9c3acb5f88e8f86a62361a55afb5eb0_1.mp3",
-    "title" : "03_Duc-Phat-Thuyet-Vo-Nga_Kinh Anattalakkahanasutta-Samyuktagamasutra (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_11db5ba26c40b37e4ba19737bbba50c0_e9c3acb5f88e8f86a62361a55afb5eb0_2.mp3",
-    "title" : "03_Duc-Phat-Thuyet-Vo-Nga_Kinh Anattalakkahanasutta-Samyuktagamasutra (2)",
+    "href" : "https://archive.org/download/duc-phat-2/duc-phat-3.mp3",
+    "title" : "03_Duc-Phat-Thuyet-Vo-Nga_Kinh Anattalakkahanasutta-Samyuktagamasutra",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
