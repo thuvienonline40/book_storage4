@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-16",
+    "published" : "2023-09-06",
     "duration" : 9054,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,65 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_be5615063b0ce09cdfdc5e49cbd849a3_128b7710cdbe37088a52db15e40ffffa_1.mp3",
+    "href" : "https://archive.org/download/nhung-bi/nhung-bi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-bi (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_be5615063b0ce09cdfdc5e49cbd849a3_128b7710cdbe37088a52db15e40ffffa_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-bi (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_be5615063b0ce09cdfdc5e49cbd849a3_128b7710cdbe37088a52db15e40ffffa_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-bi (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_be5615063b0ce09cdfdc5e49cbd849a3_128b7710cdbe37088a52db15e40ffffa_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-bi (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_be5615063b0ce09cdfdc5e49cbd849a3_128b7710cdbe37088a52db15e40ffffa_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-bi (5)",
+    "duration" : 9054,
+    "title" : "nhung-bi",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_be5615063b0ce09cdfdc5e49cbd849a3_128b7710cdbe37088a52db15e40ffffa_1.mp3",
-    "title" : "nhung-bi (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_be5615063b0ce09cdfdc5e49cbd849a3_128b7710cdbe37088a52db15e40ffffa_2.mp3",
-    "title" : "nhung-bi (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_be5615063b0ce09cdfdc5e49cbd849a3_128b7710cdbe37088a52db15e40ffffa_3.mp3",
-    "title" : "nhung-bi (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_be5615063b0ce09cdfdc5e49cbd849a3_128b7710cdbe37088a52db15e40ffffa_4.mp3",
-    "title" : "nhung-bi (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage4/main/AUDIO/AUDIO_be5615063b0ce09cdfdc5e49cbd849a3_128b7710cdbe37088a52db15e40ffffa_5.mp3",
-    "title" : "nhung-bi (5)",
+    "href" : "https://archive.org/download/nhung-bi/nhung-bi.mp3",
+    "title" : "nhung-bi",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
